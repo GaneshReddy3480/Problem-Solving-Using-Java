@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0724-find-pivot-index](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -40,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1920-build-array-from-permutation/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
