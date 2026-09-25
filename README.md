@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1314-matrix-block-sum/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1470-shuffle-the-array/) | Easy |
+| [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -179,5 +180,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
+| [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
