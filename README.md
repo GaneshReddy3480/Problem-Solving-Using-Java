@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0867-transpose-matrix/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0283-move-zeroes](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
