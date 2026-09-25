@@ -1,0 +1,9 @@
+{
+  "code": "import java.io.*;\nimport java.util.*;\n\npublic class Solution {\n\n    public static String findDay(int month, int day, int year) {\n        Calendar cal = Calendar.getInstance();\n        cal.set(year, month - 1, day);\n        return cal.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.ENGLISH).toUpperCase();\n    }\n\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int month = sc.nextInt();\n        int day = sc.nextInt();\n        int year = sc.nextInt();\n\n        System.out.println(findDay(month, day, year));\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Java Date and Time",
+  "submissionDate": "2026-09-25T08:52:09.777Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/java-date-and-time/problem"
+}
