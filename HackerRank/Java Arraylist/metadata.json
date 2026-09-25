@@ -1,0 +1,9 @@
+{
+  "code": "import java.io.*;\nimport java.util.*;\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        ArrayList<ArrayList<Integer>> list = new ArrayList<>();\n\n        for (int i = 0; i < n; i++) {\n            int d = sc.nextInt();\n            ArrayList<Integer> row = new ArrayList<>();\n\n            for (int j = 0; j < d; j++)\n                row.add(sc.nextInt());\n\n            list.add(row);\n        }\n\n        int q = sc.nextInt();\n\n        for (int i = 0; i < q; i++) {\n            int x = sc.nextInt();\n            int y = sc.nextInt();\n\n            if (x <= list.size() && y <= list.get(x - 1).size())\n                System.out.println(list.get(x - 1).get(y - 1));\n            else\n                System.out.println(\"ERROR!\");\n        }\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Java Arraylist",
+  "submissionDate": "2026-09-25T08:56:26.919Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/java-arraylist/problem"
+}
