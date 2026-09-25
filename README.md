@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
+| [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 ## Heap (Priority Queue)
@@ -89,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
 | [1185-day-of-the-week](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1185-day-of-the-week/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
