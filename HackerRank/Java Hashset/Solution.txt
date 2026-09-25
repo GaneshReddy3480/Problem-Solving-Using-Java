@@ -1,3 +1,4 @@
+import java.io.*;
 import java.util.*;
 
 public class Solution {
@@ -13,11 +14,16 @@ public class Solution {
             pair_right[i] = s.next();
         }
 
-        // --- Write your code here ---
-        Set<String> set = new HashSet<>();
+        // Write your code here
+        // 1. Initialize the HashSet to the maximum size to prevent resizing delays
+        HashSet<String> set = new HashSet<>(t);
+        
+        // 2. Iterate and append using a delimiter so ("a", "bc") doesn't match ("ab", "c")
         for (int i = 0; i < t; i++) {
             set.add(pair_left[i] + " " + pair_right[i]);
             System.out.println(set.size());
         }
+        
+        s.close();
     }
 }
