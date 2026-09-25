@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0867-transpose-matrix/) | Easy |
+| [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -171,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
