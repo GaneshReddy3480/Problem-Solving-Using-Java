@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [0724-find-pivot-index](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
@@ -179,12 +181,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -198,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
