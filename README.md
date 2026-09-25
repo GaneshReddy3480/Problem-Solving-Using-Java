@@ -87,5 +87,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
+| [1185-day-of-the-week](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1185-day-of-the-week/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 <!---LeetCode Topics End-->
