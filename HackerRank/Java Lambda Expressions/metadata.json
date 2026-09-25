@@ -1,9 +1,0 @@
-{
-  "code": "import java.io.*;\nimport java.util.*;\ninterface PerformOperation {\n boolean check(int a);\n}\nclass MyMath {\n public static boolean checker(PerformOperation p, int num) {\n  return p.check(num);\n }\n\n   // Write your code here\n\npublic class Solution {\n\n public static void main(String[] args) throws IOException {\n  MyMath ob = new MyMath();\n  BufferedReader br = new BufferedReader(new InputStreamReader(System.in));\n  int T = Integer.parseInt(br.readLine());\n  PerformOperation op;\n  boolean ret = false;\n  String ans = null;\n  while (T--> 0) {\n   String s = br.readLine().trim();\n   StringTokenizer st = new StringTokenizer(s);\n   int ch = Integer.parseInt(st.nextToken());\n   int num = Integer.parseInt(st.nextToken());\n   if (ch == 1) {\n    op = ob.isOdd();\n    ret = ob.checker(op, num);\n    ans = (ret) ? \"ODD\" : \"EVEN\";\n   } else if (ch == 2) {\n    op = ob.isPrime();\n    ret = ob.checker(op, num);\n    ans = (ret) ? \"PRIME\" : \"COMPOSITE\";\n   } else if (ch == 3) {\n    op = ob.isPalindrome();\n    ret = ob.checker(op, num);\n    ans = (ret) ? \"PALINDROME\" : \"NOT PALINDROME\";\n\n   }\n   System.out.println(ans);\n  }\n }\n}\n",
-  "difficulty": "",
-  "language": "unknown",
-  "platform": "HackerRank",
-  "problemName": "Java Lambda Expressions",
-  "submissionDate": "2026-09-25T06:44:06.919Z",
-  "submissionUrl": "https://www.hackerrank.com/challenges/java-lambda-expressions/problem"
-}
