@@ -7,16 +7,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
