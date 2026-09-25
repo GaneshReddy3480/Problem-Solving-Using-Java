@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
+| [1600-throne-inheritance](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1600-throne-inheritance/) | Medium |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1472-design-browser-history/) | Medium |
+| [1600-throne-inheritance](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1600-throne-inheritance/) | Medium |
 | [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -206,4 +208,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1600-throne-inheritance](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1600-throne-inheritance/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1600-throne-inheritance](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1600-throne-inheritance/) | Medium |
 <!---LeetCode Topics End-->
