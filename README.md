@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
