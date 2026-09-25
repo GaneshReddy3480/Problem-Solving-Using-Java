@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0867-transpose-matrix/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
