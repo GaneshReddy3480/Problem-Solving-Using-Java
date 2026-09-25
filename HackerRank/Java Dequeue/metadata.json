@@ -1,0 +1,9 @@
+{
+  "code": "import java.io.*;\nimport java.util.*;\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int k = sc.nextInt();\n\n        int[] a = new int[n];\n        for (int i = 0; i < n; i++)\n            a[i] = sc.nextInt();\n\n        Map<Integer, Integer> map = new HashMap<>();\n        int max = 0;\n\n        for (int i = 0; i < n; i++) {\n            map.put(a[i], map.getOrDefault(a[i], 0) + 1);\n\n            if (i >= k) {\n                map.put(a[i - k], map.get(a[i - k]) - 1);\n                if (map.get(a[i - k]) == 0)\n                    map.remove(a[i - k]);\n            }\n\n            if (i >= k - 1)\n                max = Math.max(max, map.size());\n        }\n\n        System.out.println(max);\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Java Dequeue",
+  "submissionDate": "2026-09-25T06:55:40.393Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/java-dequeue/problem"
+}
