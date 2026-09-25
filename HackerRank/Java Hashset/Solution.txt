@@ -16,7 +16,8 @@ public class Solution {
         HashSet<String> pairs = new HashSet<>(t);
 
         for (int i = 0; i < t; i++) {
-            pairs.add(pair_left[i] + " " + pair_right[i]);
+            // Use '#' as a non-conflicting separator
+            pairs.add(pair_left[i] + "#" + pair_right[i]);
             System.out.println(pairs.size());
         }
     }
