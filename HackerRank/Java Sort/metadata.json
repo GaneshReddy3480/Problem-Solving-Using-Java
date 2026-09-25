@@ -1,0 +1,9 @@
+{
+  "code": "import java.util.*;\n\nclass Student {\n    int id;\n    String name;\n    double cgpa;\n\n    Student(int id, String name, double cgpa) {\n        this.id = id;\n        this.name = name;\n        this.cgpa = cgpa;\n    }\n}\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n        int n = sc.nextInt();\n\n        Student[] s = new Student[n];\n\n        for (int i = 0; i < n; i++) {\n            int id = sc.nextInt();\n            String name = sc.next();\n            double cgpa = sc.nextDouble();\n            s[i] = new Student(id, name, cgpa);\n        }\n\n        Arrays.sort(s, (a, b) -> {\n            if (a.cgpa != b.cgpa)\n                return Double.compare(b.cgpa, a.cgpa);\n            if (!a.name.equals(b.name))\n                return a.name.compareTo(b.name);\n            return Integer.compare(a.id, b.id);\n        });\n\n        for (Student x : s)\n            System.out.println(x.name);\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Java Sort",
+  "submissionDate": "2026-09-25T06:48:56.693Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/java-sort/problem"
+}
