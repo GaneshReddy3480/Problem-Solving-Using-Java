@@ -1,9 +1,9 @@
 {
-  "code": "import java.io.*;\nimport java.util.*;\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        HashSet<String> set = new HashSet<>();\n\n        for (int i = 0; i < n; i++) {\n            String a = sc.next();\n            String b = sc.next();\n\n            set.add(a + \" \" + b);\n            System.out.println(set.size());\n        }\n    }\n}",
+  "code": "import java.io.*;\nimport java.util.*;\n\npublic class Solution {\n    public static void main(String[] args) throws Exception {\n        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));\n        int n = Integer.parseInt(br.readLine().trim());\n\n        HashSet<String> set = new HashSet<>();\n\n        for (int i = 0; i < n; i++) {\n            String[] p = br.readLine().split(\" \");\n            set.add(p[0] + \"#\" + p[1]);\n            System.out.println(set.size());\n        }\n    }\n}",
   "difficulty": "",
   "language": "unknown",
   "platform": "HackerRank",
   "problemName": "Java Hashset",
-  "submissionDate": "2026-09-25T06:57:44.197Z",
+  "submissionDate": "2026-09-25T06:58:58.625Z",
   "submissionUrl": "https://www.hackerrank.com/challenges/java-hashset/problem"
 }
