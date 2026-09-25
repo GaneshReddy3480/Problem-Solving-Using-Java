@@ -1,0 +1,9 @@
+{
+  "code": "import java.util.*;\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int[] a = new int[3];\n        int[] b = new int[3];\n\n        for (int i = 0; i < 3; i++)\n            a[i] = sc.nextInt();\n\n        for (int i = 0; i < 3; i++)\n            b[i] = sc.nextInt();\n\n        int alice = 0;\n        int bob = 0;\n\n        for (int i = 0; i < 3; i++) {\n            if (a[i] > b[i])\n                alice++;\n            else if (a[i] < b[i])\n                bob++;\n        }\n\n        System.out.println(alice + \" \" + bob);\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Compare the Triplets",
+  "submissionDate": "2026-09-25T08:59:18.325Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/compare-the-triplets/problem"
+}
