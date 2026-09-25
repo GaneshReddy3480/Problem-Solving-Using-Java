@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
@@ -176,5 +178,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1396-design-underground-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1396-design-underground-system/) | Medium |
 | [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
