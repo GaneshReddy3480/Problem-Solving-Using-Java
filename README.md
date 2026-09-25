@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
 ## String
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0796-rotate-string/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
