@@ -1,0 +1,9 @@
+{
+  "code": "import java.io.*;\nimport java.util.*;\n\ninterface PerformOperation {\n    boolean check(int a);\n}\n\npublic class Solution {\n\n    public static PerformOperation isOdd() {\n        return n -> n % 2 != 0;\n    }\n\n    public static PerformOperation isPrime() {\n        return n -> {\n            if (n < 2) return false;\n            for (int i = 2; i * i <= n; i++)\n                if (n % i == 0) return false;\n            return true;\n        };\n    }\n\n    public static PerformOperation isPalindrome() {\n        return n -> {\n            int x = n, rev = 0;\n            while (n > 0) {\n                rev = rev * 10 + n % 10;\n                n /= 10;\n            }\n            return x == rev;\n        };\n    }\n\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n        int t = sc.nextInt();\n\n        while (t-- > 0) {\n            int ch = sc.nextInt();\n            int n = sc.nextInt();\n\n            if (ch == 1)\n                System.out.println(isOdd().check(n) ? \"ODD\" : \"EVEN\");\n            else if (ch == 2)\n                System.out.println(isPrime().check(n) ? \"PRIME\" : \"COMPOSITE\");\n            else\n                System.out.println(isPalindrome().check(n) ? \"PALINDROME\" : \"NOT PALINDROME\");\n        }\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Java Lambda Expressions",
+  "submissionDate": "2026-09-25T06:47:52.910Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/java-lambda-expressions/problem"
+}
