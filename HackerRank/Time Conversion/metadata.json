@@ -1,0 +1,9 @@
+{
+  "code": "import java.util.*;\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n        String s = sc.next();\n\n        int hour = Integer.parseInt(s.substring(0, 2));\n        String ampm = s.substring(8);\n\n        if (ampm.equals(\"AM\")) {\n            if (hour == 12)\n                hour = 0;\n        } else {\n            if (hour != 12)\n                hour += 12;\n        }\n\n        System.out.printf(\"%02d%s%n\", hour, s.substring(2, 8));\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Time Conversion",
+  "submissionDate": "2026-09-25T08:59:57.672Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem"
+}
