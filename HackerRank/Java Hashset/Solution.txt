@@ -1,40 +1,22 @@
-import java.io.*;
 import java.util.*;
 
 public class Solution {
 
-    static class Pair {
-        String a, b;
-
-        Pair(String a, String b) {
-            this.a = a;
-            this.b = b;
-        }
-
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (!(o instanceof Pair)) return false;
-            Pair p = (Pair) o;
-            return a.equals(p.a) && b.equals(p.b);
-        }
-
-        public int hashCode() {
-            return 31 * a.hashCode() + b.hashCode();
-        }
-    }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt();
-        HashSet<Pair> set = new HashSet<>();
+        String[] pair_left = new String[n];
+        String[] pair_right = new String[n];
 
         for (int i = 0; i < n; i++) {
-            String a = sc.next();
-            String b = sc.next();
+            pair_left[i] = sc.next();
+            pair_right[i] = sc.next();
+        }
+        HashSet<String> pairs = new HashSet<>(n);
 
-            set.add(new Pair(a, b));
-            System.out.println(set.size());
+        for (int i = 0; i < n; i++) {
+            pairs.add("(" + pair_left[i] + ", " + pair_right[i] + ")");
+            System.out.println(pairs.size());
         }
     }
 }
