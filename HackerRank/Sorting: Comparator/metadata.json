@@ -1,0 +1,9 @@
+{
+  "code": "import java.util.*;\n\nclass Player {\n    String name;\n    int score;\n\n    Player(String name, int score) {\n        this.name = name;\n        this.score = score;\n    }\n}\n\nclass Checker implements Comparator<Player> {\n    public int compare(Player a, Player b) {\n        if (a.score != b.score)\n            return b.score - a.score;\n        return a.name.compareTo(b.name);\n    }\n}\n\npublic class Solution {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        Player[] players = new Player[n];\n\n        for (int i = 0; i < n; i++) {\n            String name = sc.next();\n            int score = sc.nextInt();\n            players[i] = new Player(name, score);\n        }\n\n        Arrays.sort(players, new Checker());\n\n        for (Player p : players)\n            System.out.println(p.name + \" \" + p.score);\n    }\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Sorting: Comparator",
+  "submissionDate": "2026-09-25T06:54:38.923Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem"
+}
