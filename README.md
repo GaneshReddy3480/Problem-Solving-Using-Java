@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1314-matrix-block-sum](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1314-matrix-block-sum/) | Medium |
+| [1408-string-matching-in-an-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1154-day-of-the-year](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1154-day-of-the-year/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2418-sort-the-people](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/2418-sort-the-people/) | Easy |
 ## Heap (Priority Queue)
@@ -132,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
