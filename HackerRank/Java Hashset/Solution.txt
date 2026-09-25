@@ -2,15 +2,38 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
-    public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine().trim());
 
-        HashSet<String> set = new HashSet<>();
+    static class Pair {
+        String a, b;
+
+        Pair(String a, String b) {
+            this.a = a;
+            this.b = b;
+        }
+
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (!(o instanceof Pair)) return false;
+            Pair p = (Pair) o;
+            return a.equals(p.a) && b.equals(p.b);
+        }
+
+        public int hashCode() {
+            return 31 * a.hashCode() + b.hashCode();
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        HashSet<Pair> set = new HashSet<>();
 
         for (int i = 0; i < n; i++) {
-            String[] p = br.readLine().split(" ");
-            set.add(p[0] + "#" + p[1]);
+            String a = sc.next();
+            String b = sc.next();
+
+            set.add(new Pair(a, b));
             System.out.println(set.size());
         }
     }
